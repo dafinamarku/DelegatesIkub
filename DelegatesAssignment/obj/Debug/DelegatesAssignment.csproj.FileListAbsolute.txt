@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\DelegatesAssignment.exe.config
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\DelegatesAssignment.exe
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\bin\Debug\DelegatesAssignment.pdb
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\DelegatesAssignment.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\DelegatesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\DelegatesAssignment.exe
+C:\Users\user\source\repos\DelegatesAssignment\DelegatesAssignment\obj\Debug\DelegatesAssignment.pdb
